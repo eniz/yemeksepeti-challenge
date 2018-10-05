@@ -4,7 +4,7 @@ A sample JS app for yemeksepeti.com.
 
 ## Start Dev Server
 
-1.  `git clone https://github.com/markovv/webpack-es6-boilerplate.git`
+1.  `git clone https://bitbucket.org/enzglk/yemeksepeti-challenge.git`
 2.  Run `yarn install`
 3.  Start the dev server using `yarn dev`
 
