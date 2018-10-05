@@ -1,0 +1,36 @@
+@import '../../node_modules/normalize.css/normalize.css';
+@import './media.scss';
+@import './base.scss';
+@import './fonts.scss';
+
+@import './header.scss';
+@import './basket.scss';
+@import './menu.scss';
+
+// custom styles
+body {
+}
+
+a {
+  background-position: center;
+  background-repeat: no-repeat;
+  display: inline-block;
+
+  img {
+    position: relative;
+    top: 10px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+.container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-content {
+  clear: both;
+  margin-top: 30px;
+}

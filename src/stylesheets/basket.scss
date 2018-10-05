@@ -1,0 +1,62 @@
+.basket-container {
+  width: 30%;
+  float: left;
+  border: 1px solid #ddd;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+
+.basket {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.basket-header {
+  padding: 10px 12px;
+  background-color: #ac000b;
+  font-weight: bold;
+  color: #fff;
+}
+
+.basket table {
+  width: 100%;
+}
+
+.basket td {
+  padding: 8px 5px;
+}
+
+.basket-product-count {
+  width: 42px;
+}
+
+.basket-product-count input {
+  width: 40px;
+}
+
+.basket-product-price {
+  width: 80px;
+  text-align: right;
+}
+
+.basket-product-remove {
+  width: 21px;
+  font-size: 14px;
+  line-height: 18px;
+  color: #ac000b;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.basket-total {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px;
+  border-top: 1px solid #ccc;
+  margin-top: 10px;
+}
+
+.basket-totalPrice {
+  float: right;
+}
+
